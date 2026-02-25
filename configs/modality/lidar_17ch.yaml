@@ -1,0 +1,11 @@
+# GEOSIGHT/configs/modality/lidar_17ch.yaml
+name: lidar_17ch
+bands: 17
+resolution: 0.5
+normalization: dataset
+stem:
+  type: conv
+  in_channels: 17
+  out_channels: 64
+  kernel_size: 7
+  stride: 2
