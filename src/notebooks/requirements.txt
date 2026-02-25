@@ -1,7 +1,0 @@
-laspy[lazrs]
-torch
-numpy
-scikit-learn
-scipy
-joblib
-matplotlib
