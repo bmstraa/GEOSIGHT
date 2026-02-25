@@ -1,0 +1,9 @@
+laspy[lazrs]
+torch
+torchvision
+numpy
+scikit-learn
+scipy
+joblib
+matplotlib
+rasterio
